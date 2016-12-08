@@ -51,9 +51,9 @@
   "dependencies": {
     "react": "15.*",
     "react-dom": "15.*",
-    "react-redux": "^4.4.5",
-    "react-redux-wire": "git+ssh://git@github.com/jide/react-redux-wire.git#f0cdbb509ec1a63a849a781392a81c0c4632fcb6",
-    "redux": "^3.5.2"
+    "react-redux": "4.*",
+    "react-redux-wire": "0.*",
+    "redux": "3.*"
   },
   "scripts": {
     "start": "node scripts/start.js",

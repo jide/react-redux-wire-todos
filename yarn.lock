@@ -4440,11 +4440,11 @@ react-dom@15.*:
     loose-envify "^1.1.0"
     object-assign "^4.1.0"
 
-"react-redux-wire@git+ssh://git@github.com/jide/react-redux-wire.git#f0cdbb509ec1a63a849a781392a81c0c4632fcb6":
-  version "0.0.2"
-  resolved "git+ssh://git@github.com/jide/react-redux-wire.git#f0cdbb509ec1a63a849a781392a81c0c4632fcb6"
+react-redux-wire@0.*:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/react-redux-wire/-/react-redux-wire-0.0.3.tgz#4b33fbd2372786cf43901146714a1b2c8624962b"
 
-react-redux@^4.4.5:
+react-redux@4.*:
   version "4.4.6"
   resolved "https://registry.yarnpkg.com/react-redux/-/react-redux-4.4.6.tgz#4b9d32985307a11096a2dd61561980044fcc6209"
   dependencies:
@@ -4572,7 +4572,7 @@ reduce-function-call@^1.0.1:
   dependencies:
     balanced-match "^0.4.2"
 
-redux@^3.5.2:
+redux@3.*:
   version "3.6.0"
   resolved "https://registry.yarnpkg.com/redux/-/redux-3.6.0.tgz#887c2b3d0b9bd86eca2be70571c27654c19e188d"
   dependencies:
